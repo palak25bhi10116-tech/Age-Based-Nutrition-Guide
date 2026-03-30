@@ -1,7 +1,7 @@
  Age-Based Nutrition Guide
  
 Age-Based Nutrition Guide using Python
-1. Overview of the Project
+  1. Overview of the Project
 
 The Age-Based Nutrition Guide is a Python-based console application that provides users with personalized nutritional recommendations based on their age.
 
@@ -12,7 +12,7 @@ Recommended food items
 
 This project demonstrates the use of basic Python programming concepts along with efficient data handling techniques.
 
-2. Features
+  2. Features
 - Age-based classification into life stages
 - Displays nutritional focus for each age group
 - Suggests healthy food recommendations
@@ -20,7 +20,7 @@ This project demonstrates the use of basic Python programming concepts along wit
 - Input validation and error handling
 - Simple and user-friendly console interface
   
-3.Technologies / Tools Used
+  3.Technologies / Tools Used
 Programming Language: Python 3
 IDE/Editor: VS Code / PyCharm / Any Python IDE
 Concepts Used:
@@ -30,6 +30,7 @@ Generator expressions (next())
 Exception handling (try-except)
 
   4. Steps to Install & Run the Project
+
 1️.Install Python
 
 Download and install Python from the official website:
@@ -46,11 +47,12 @@ Navigate to the folder where your file is saved.
 
 4️. Run the Program
 python main.py
+
 5️. Provide Input
 
 Enter your age when prompted.
 
-5. Instructions for Testing
+  5. Instructions for Testing
 Test the program with different types of inputs:
 
 - Valid Inputs
