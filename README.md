@@ -1,4 +1,8 @@
- Age-Based Nutrition Guide
+<img width="516" height="131" alt="Screenshot n4" src="https://github.com/user-attachments/assets/afd36010-2061-4ab9-99a1-1ae3c2b6fbc7" />
+<img width="458" height="186" alt="Screenshot n3" src="https://github.com/user-attachments/assets/1dd4f8b8-90c2-4186-8890-9e649d19c54a" />
+<img width="460" height="223" alt="Screenshot n2" src="https://github.com/user-attachments/assets/49976123-7ad6-4d50-8c6b-4c2568e34cbc" />
+<img width="518" height="243" alt="Screenshot n1" src="https://github.com/user-attachments/assets/17d12ff9-5e61-4406-9aec-5d8a1cd0d2d8" />
+Age-Based Nutrition Guide
  
 Age-Based Nutrition Guide using Python
   1. Overview of the Project
