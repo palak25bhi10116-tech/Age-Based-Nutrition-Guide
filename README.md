@@ -1,6 +1,5 @@
  Age-Based Nutrition Guide
- Project Title
-
+ 
 Age-Based Nutrition Guide using Python
 1. Overview of the Project
 
